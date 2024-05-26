@@ -2,14 +2,22 @@ body {
     background-color:#a7dddd;
     font-size: 20px;
     font-family: sans-serif;
+    margin: 20px;
 }
 
 ol {
     list-style: upper-roman;
+    display: inline-block;
+    padding: 50px;
+    color: whitesmoke;
+    background-color:darkslategrey;
 }
 
 ul {
     list-style-type: square;
+    display: inline-block;
+    padding: 30px;
+    border: 2px solid black;
 }
 
 a {
