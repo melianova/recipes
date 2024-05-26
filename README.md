@@ -1,3 +1,3 @@
 # recipes
 
-This is an HTML practice project.
+This is an HTML and CSS practice project.
